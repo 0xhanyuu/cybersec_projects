@@ -1,4 +1,4 @@
-# xor_tool
+# xorcrypt
 
 A rudimentary tool for encrypting / decrypting files through a simple bitwise `xor` function written entirely in C++.
 
